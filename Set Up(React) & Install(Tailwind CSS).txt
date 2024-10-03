@@ -1,0 +1,10 @@
+1. Set up the React project:->
+
+npx create-react-app dashboard
+cd dashboard
+npm install
+
+2. Install Tailwind CSS:->
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
